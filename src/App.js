@@ -34,8 +34,6 @@ function App() {
   return  <div className="container">{elements}</div>
 };
 
-// const AppWithRouter = <BrowserRouter>{App}</BrowserRouter>
-
 const MainPage = () => {
   return (
     <>
